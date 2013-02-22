@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.adobe.flex.framework</groupId>
   <artifactId>osmf</artifactId>
-  <version>4.8.0</version>
+  <version>4.9.0.1425567</version>
   <packaging>swc</packaging>
   <description>POM was created from install:install-file</description>
 </project>
